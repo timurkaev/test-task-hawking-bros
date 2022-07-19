@@ -1,0 +1,11 @@
+.inputRange {
+  width: 100%;
+  outline: none;
+  margin-top: 20px;
+}
+
+.label {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 20px;
+}
